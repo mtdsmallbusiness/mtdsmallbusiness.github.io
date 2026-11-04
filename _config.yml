@@ -11,7 +11,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-permalink: /:year/:month/:title/
+permalink: /:title/
 show_excerpts: true
 
 minima:
