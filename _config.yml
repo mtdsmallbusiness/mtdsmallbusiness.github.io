@@ -1,0 +1,21 @@
+title: MTD for Small Business
+description: Plain-English guides to Making Tax Digital, digital record keeping and tax deadlines for UK sole traders, landlords and small businesses.
+url: "https://mtdsmallbusiness.github.io"
+baseurl: ""
+lang: en-GB
+timezone: Europe/London
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: /:year/:month/:title/
+show_excerpts: true
+
+minima:
+  date_format: "%-d %B %Y"
+
+header_pages:
+  - about.md
